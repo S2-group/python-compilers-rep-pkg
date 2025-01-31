@@ -139,7 +139,7 @@ python ./experiment-runner/experiment-runner/ # TODO
 ## Data Analysis
 
 # Install Jupyter Notebook and required libraries
-pip install jupyter pandas seaborn numpy
+`pip install jupyter pandas seaborn numpy`
 
 # Launch Jupyter Notebook from the upmost folder of this repository (./python-compilers-rep-pkg)
-jupyter notebook
+`jupyter notebook`
