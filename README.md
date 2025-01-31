@@ -4,11 +4,11 @@ This repository contains the replication package for the study 'An Empirical Stu
 
 ## Structure
 
-`data`: contains the measurements on the experiement
-`notebooks`:contains the scripts used for the data analysis.
-`subjects`: contains the code executed per compiler and the test cases.
-`runners`: contains the script of ExperimentRunner used to orchestrate the experiment. 
-`setup_experimental_machine.sh`: script that setups Condon, PyPy, and EnergiBridge on the testbed 
+- `data`: contains the measurements on the experiement
+- `notebooks`:contains the scripts used for the data analysis.
+- `subjects`: contains the code executed per compiler and the test cases.
+- `runners`: contains the script of ExperimentRunner used to orchestrate the experiment. 
+- `setup_experimental_machine.sh`: script that setups Condon, PyPy, and EnergiBridge on the testbed 
 
 ## Benchmarks 
 
