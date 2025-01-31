@@ -1,0 +1,8 @@
+# started on Sun Jan 12 14:59:59 2025
+
+45864,,cache-references,3675577,100.00,,
+23548,,cache-misses,3675577,100.00,51.343,of all cache refs
+28646,,LLC-loads,3675577,100.00,,
+19904,,LLC-load-misses,3675577,100.00,69.48,of all LL-cache accesses
+<not counted>,,LLC-stores,0,0.00,,
+<not counted>,,LLC-store-misses,0,0.00,,

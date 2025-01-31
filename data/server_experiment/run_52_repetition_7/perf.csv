@@ -1,0 +1,8 @@
+# started on Sun Jan 19 09:13:18 2025
+
+199506496,,cache-references,356722420956,50.00,,
+1575643,,cache-misses,475637364354,66.67,0.790,of all cache refs
+109501238,,LLC-loads,475638530823,66.67,,
+804180,,LLC-load-misses,475638744412,66.67,0.73,of all LL-cache accesses
+2740565,,LLC-stores,237814580591,33.33,,
+85177,,LLC-store-misses,237814360587,33.33,,

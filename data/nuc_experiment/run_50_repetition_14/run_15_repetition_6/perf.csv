@@ -1,0 +1,8 @@
+# started on Fri Jan 17 15:24:18 2025
+
+17829660,,cpu_core/cache-references/,226023769314,49.00,,
+333729,,cpu_core/cache-misses/,301366009802,66.00,,
+9024008,,cpu_core/LLC-loads/,301365882247,66.00,,
+21982,,cpu_core/LLC-load-misses/,301366650818,66.00,0.24,of all LL-cache accesses
+3835248,,cpu_core/LLC-stores/,150683427036,33.00,,
+231,,cpu_core/LLC-store-misses/,150682653831,33.00,,
